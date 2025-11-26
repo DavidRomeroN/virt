@@ -32,3 +32,7 @@ source ~/.bashrc
 
 echo "Configuración completada. Reinicia la sesión o ejecuta 'source ~/.bashrc'"
 
+
+
+
+

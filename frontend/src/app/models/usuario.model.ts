@@ -7,3 +7,7 @@ export interface Usuario {
   rol?: 'ESTUDIANTE' | 'PROFESOR' | 'ADMINISTRADOR';
 }
 
+
+
+
+

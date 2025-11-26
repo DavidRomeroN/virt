@@ -47,3 +47,7 @@ echo "3. Configurar la URL del backend en los servicios"
 echo "4. Ejecutar 'ng build --configuration production'"
 echo "5. Copiar los archivos de dist/ a /var/www/auditorio-reserva"
 
+
+
+
+

@@ -34,6 +34,8 @@ build/
 
 ### Application Properties ###
 application-local.properties
+# Note: application.properties is tracked but uses environment variables for credentials
+# Create application-local.properties for local development if needed
 
 ### Uploads Directory ###
 uploads/

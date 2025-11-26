@@ -13,3 +13,7 @@ public interface AuditorioRepository extends JpaRepository<Auditorio, Long> {
     List<Auditorio> findByActivoTrue();
 }
 
+
+
+
+

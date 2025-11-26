@@ -32,3 +32,7 @@ public interface ReservaRepository extends JpaRepository<Reserva, Long> {
     List<Reserva> findByAuditorioAndFecha(@Param("auditorioId") Long auditorioId, @Param("fecha") LocalDate fecha);
 }
 
+
+
+
+
